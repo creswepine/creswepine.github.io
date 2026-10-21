@@ -1,7 +1,5 @@
-# creswepine的个人博客
-
-## about blog
+## creswepine的个人博客
 
 这是我的个人博客项目，记录学习过程、项目实践和日常思考。希望在不断探索与积累中，留下自己的成长轨迹，回看每一瞬都是精彩纷呈的一格格。
 
-[访问我的博客](https://creswepine.github.io/)
+[访问](https://creswepine.github.io/)
